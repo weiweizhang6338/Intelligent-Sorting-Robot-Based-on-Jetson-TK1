@@ -4,7 +4,7 @@
 ## Project Background
    In recent years, the combination of computer vision technology and robot has become the trend of image processing and robot development. Such technology makes robots have recognition function similar to human eyes, which makes robots more autonomous and intelligent in practical applications. The sorting technology that applies robots with intelligent image processing capabilities to the production line has broad application prospects.
    
-   By deploying the object recognition algorithm in GPU with powerful processing capability, we can achieve the goals to recognize the objects in real time and operate the manipulator to complete the sorting operation, thus creating an intelligent and automatic sorting robot which can be applied to small-scale and low-workload scenarios.
+   By deploying the object recognition algorithm at GPU which has powerful processing capability, we can achieve the goals to recognize the objects in real time and operate the manipulator to complete the sorting operation, thus creating an intelligent and automatic sorting robot which can be applied to small-scale and low-workload scenarios.
 ## Technology Scheme
 
 ## Our Goals
