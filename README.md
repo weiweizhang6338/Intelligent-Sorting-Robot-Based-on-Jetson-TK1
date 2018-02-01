@@ -6,15 +6,15 @@
    
    By deploying the object recognition algorithm at GPU which has powerful processing capability, we can achieve the goals to recognize the objects in real time and operate the manipulator to complete the sorting operation, thus creating an intelligent and automatic sorting robot which can be applied to small-scale and low-workload scenarios.
 ## Technology Scheme
-1.Computer Vision Technology We Adopted
+1.Object Recognition Algorithm------Darknet YOLO
 
 2.Hardware Platform------JetsonRobot AI
 
 3.Manipulator------DOBOT
 
 ## Our Goals
--Capture images with the camera within its field of view
+- Capture images with the camera within its field of view
 
--TK1 takes the responsibility to identify and classify the target object in the image while obtaining the position of the target object
+- TK1 takes the responsibility to identify and classify the target object in the image while obtaining the position of the target object
 
 -
