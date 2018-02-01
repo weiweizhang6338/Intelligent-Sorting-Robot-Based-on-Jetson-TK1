@@ -10,8 +10,11 @@
 
 2.Hardware Platform------JetsonRobot AI
 
-3.
+3.Manipulator------DOBOT
+
 ## Our Goals
 -Capture images with the camera within its field of view
+
 -TK1 takes the responsibility to identify and classify the target object in the image while obtaining the position of the target object
+
 -
