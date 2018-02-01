@@ -6,15 +6,19 @@
    
    By deploying the object recognition algorithm at GPU which has powerful processing capability, we can achieve the goals to recognize the objects in real time and operate the manipulator to complete the sorting operation, thus creating an intelligent and automatic sorting robot which can be applied to small-scale and low-workload scenarios.
 ## Technology Scheme
-1.Object Recognition Algorithm------Darknet YOLO
+1. Object Recognition Algorithm------Darknet YOLO
 
-2.Hardware Platform------JetsonRobot AI
+2. Hardware Platform------JetsonRobot AI
 
-3.Manipulator------DOBOT
+3. Manipulator------DOBOT
 
-## Our Goals
-- Capture images with the camera within its field of view
+## Expected Goals
+- Train YOLO convolution neural network in order to achieve the identification of target product
 
-- TK1 takes the responsibility to identify and classify the target object in the image while obtaining the position of the target object
+- Capture images through the camera within its field of view
 
--
+- Identify and classify the target object in the image, obtain the position of the target object at the same time(TK1 is responsible for this step)
+
+- Control the DOBOT robot to approach and grab the target object 
+
+- Control the DOBOT robot to move and release the target object to the specified classification area
